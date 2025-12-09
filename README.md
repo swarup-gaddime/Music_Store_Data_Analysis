@@ -5,7 +5,7 @@ Data Exploration & Insights using SQL
 This project analyzes a Music Store database using SQL to uncover business insights related to customers, invoices, tracks, artists, and sales performance.
 It demonstrates practical SQL skills including joins, aggregations, subqueries, window functions, and data-driven decision-making.
 
-Project Overview
+## Project Overview
 
 The Music Store data contains customer details, invoices, tracks, genres, albums, artists, and employee information.
 The goal of this project is to perform exploratory data analysis (EDA) and answer real business questions such as:
@@ -30,7 +30,7 @@ The goal of this project is to perform exploratory data analysis (EDA) and answe
 
 This project is ideal for practice in SQL, data analysis, and relational database concepts.
 
-Dataset Description
+## Dataset Description
 
 The project uses the classic Chinook/Music Store Database.
 
